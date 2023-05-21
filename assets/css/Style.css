@@ -1,0 +1,32 @@
+h2{
+    text-decoration: underline;
+    text-align: center;
+}
+
+#infos{
+    display: none;
+    border: 2px solid black;
+}
+
+head{
+    text-align: center;
+}
+#table{
+    margin: auto;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th{
+    border: 1px solid black;
+    padding: 3px;
+}
+
+tr{
+    height: 2em;
+}
+
+td{
+    border: 1px solid black;
+    text-align: center;
+}
